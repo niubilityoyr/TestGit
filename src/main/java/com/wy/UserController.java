@@ -10,4 +10,8 @@ public class UserController {
         System.out.println("my is userController");
     }
 
+    public void print(){
+        System.out.println("my is userController dev");
+    }
+
 }
