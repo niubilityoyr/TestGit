@@ -11,8 +11,8 @@ public class UserController {
     }
 
     public void print(){
-        System.out.println("冲突来了");
-	System.out.println("my is userController dev");
+        System.out.println("dev1，这是冲突！！！！");
+	    System.out.println("my is userController dev");
     }
 
 }
